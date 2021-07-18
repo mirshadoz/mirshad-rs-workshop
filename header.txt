@@ -1,2 +1,5 @@
 Some text for header.
-Changes from Master. - new changes.
+Changes from Master. 
+Text from branch First.
+
+Text from master - new changes!!!
